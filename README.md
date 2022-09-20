@@ -28,3 +28,5 @@ Note: spheres has problems
 
 run "make proj1" to build
 run "make run" to run with tetra-3.nff and output to output.ppm
+![alt text](http://url/to/img.png)
+![alt text](http://url/to/img.png)
