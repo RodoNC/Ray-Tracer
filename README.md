@@ -1,5 +1,4 @@
-CMSC 345 Assignment 1 Ray Tracing part 1
-Rodolfo Calip CG70855
+Ray Tracer
 
 Project written in c++
 Uses Eigen Library
@@ -28,5 +27,8 @@ Note: spheres has problems
 
 run "make proj1" to build
 run "make run" to run with tetra-3.nff and output to output.ppm
+
+From teapot-3.nff
 ![alt text](https://github.com/RodoNC/Ray-Tracer/blob/main/tea.png)
+From tetra-3.nff
 ![alt text](https://github.com/RodoNC/Ray-Tracer/blob/main/output.png)
